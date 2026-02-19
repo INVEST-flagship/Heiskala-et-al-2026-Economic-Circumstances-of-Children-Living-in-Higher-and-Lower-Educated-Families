@@ -14,7 +14,7 @@ socioeconomic  inequality,  educational  disparities,  household  income,  house
 
 ## Cite as
 
-Heiskala et al. (2026). Code repository for: AEconomic Circumstances of Children Living in Higher and Lower-Educated Families and the Contribution of Household Structure: A Cross-Country Comparison with a Child’s Perspective. Zenodo. https://zenodo.org/records/18693777
+Heiskala et al. (2026). Code repository for: Economic Circumstances of Children Living in Higher and Lower-Educated Families and the Contribution of Household Structure: A Cross-Country Comparison with a Child’s Perspective. Zenodo. https://zenodo.org/records/18693777
 
 
 ## License

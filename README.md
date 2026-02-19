@@ -3,7 +3,7 @@
 
 Laura Heiskala, Minna Tuominen, Jani Erola & Elina Kilpi-Jakonen
 
-DOI
+[![DOI](https://zenodo.org/badge/1161527384.svg)](https://doi.org/10.5281/zenodo.18693776)
 
 ## Introduction
 
@@ -14,7 +14,7 @@ socioeconomic  inequality,  educational  disparities,  household  income,  house
 
 ## Cite as
 
-Heiskala et al. (2026). Code repository for: AEconomic Circumstances of Children Living in Higher and Lower-Educated Families and the Contribution of Household Structure: A Cross-Country Comparison with a Child’s Perspective. Zenodo. https://zenodo.org/records/17413188
+Heiskala et al. (2026). Code repository for: AEconomic Circumstances of Children Living in Higher and Lower-Educated Families and the Contribution of Household Structure: A Cross-Country Comparison with a Child’s Perspective. Zenodo. https://zenodo.org/records/18693777
 
 
 ## License
